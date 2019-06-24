@@ -15,8 +15,6 @@ class FilmCard extends React.Component {
   render() {
     const { film } = this.props;
 
-    //return (<div>{film.title}</div>)
-
     return (
       <Card className="film-card">
         <CardActionArea onClick={this.selectFilm}>
