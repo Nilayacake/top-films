@@ -20,6 +20,6 @@ Extra small screen.
 
 Search.
 
-![alt text](https://github.com/Nilayacake/top-films/blob/master/screenshots/dialog.png "Screenshot of the dialog")
+![alt text](https://github.com/Nilayacake/top-films/blob/master/screenshots/dialog.gif "Gif of the dialog")
 
 Dialog.
