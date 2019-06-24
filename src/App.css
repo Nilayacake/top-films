@@ -1,0 +1,32 @@
+.App {
+  padding-top: 72px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 666px) {
+  .App {
+    padding-top: 127px;
+  }
+}
+
+@media only screen and (max-width: 477px) {
+  .App {
+    padding-top: 188px;
+  }
+}
+
+header {
+  padding-bottom: 7px;
+}
+
+
+
+.title {
+  flex: 1;
+}
+
+button {
+  display: none;
+}
